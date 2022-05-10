@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<jndi:namedResource xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:httpconnector="http://xsd.tns.tibco.com/bw/models/sharedresource/httpconnector" xmlns:jndi="http://xsd.tns.tibco.com/amf/models/sharedresource/jndi" xmi:id="_PTp7sbPdEeyfid99I5Xyew" name="shuttleshipments.module.HTTPConnectorResource" type="httpconnector:HttpConnectorConfiguration">
-  <jndi:configuration xsi:type="httpconnector:HttpConnectorConfiguration" xmi:id="_PTp7srPdEeyfid99I5Xyew" port="9191" acceptQueueSize="-1" newAccessLogs="true">
-    <substitutionBindings xmi:id="_PTp7s7PdEeyfid99I5Xyew" template="host" propName="BW.HOST.NAME"/>
-  </jndi:configuration>
-</jndi:namedResource>
